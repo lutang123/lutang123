@@ -8,7 +8,7 @@
 <!-- - 👨‍💻 All of my projects are available at [apgapg.github.io](https://apgapg.github.io/)
 - 📝 I regulary write articles on [Medium](http://medium.com/@ayushpguptaapg) -->
 - 🛩 ⛴ 🏖 🏞 🏔 I love traveling and outdoor activities and I love spicy food 🌶🌶🌶😄
-- 📫 How to reach me [@Email](lutang908@gmail.com), [@LinkedIn](https://linkedin.com/in/lutang123)
+- 📫 Reach me [@LinkedIn](https://linkedin.com/in/lutang123)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutang123" alt="lutang123" /> </p>
 
 ---
