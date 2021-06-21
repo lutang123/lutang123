@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Flutter Open-Source project!
 - 💬 Ask me about Flutter and data science 😎
 <!-- - 👨‍💻 All of my projects are available at [apgapg.github.io](https://apgapg.github.io/)
-- 📝 I regulary write articles on [Medium](http://medium.com/@ayushpguptaapg) -->
+<!-- - 📝 I regulary write articles on [Medium](http://medium.com/@ayushpguptaapg) -->
 - 🛩 ⛴ 🏖 🏞 🏔 I love traveling and outdoor activities and I love spicy food 🌶🌶🌶😄
 - 📫 Reach me [@LinkedIn](https://linkedin.com/in/lutang123)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutang123" alt="lutang123" /> </p>
