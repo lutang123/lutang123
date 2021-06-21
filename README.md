@@ -25,12 +25,12 @@
 
 ---
 
-<a href="https://github.com/lutang123/github-readme-stats">
+<!-- <a href="https://github.com/lutang123/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lutang123&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/lutang123/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lutang123&repo=convoychat" />
-</a>
+</a> -->
 
 ### Contact me:
 
