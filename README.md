@@ -14,14 +14,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutang123&layout=compact&theme=dracula)]()
 ---
 
-<a href="https://github.com/lutang123/github-readme-stats">
+<!-- <a href="https://github.com/lutang123/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lutang123&repo=github-readme-stats" />
-</a>
+</a> -->
 <a href="https://github.com/lutang123/Flutter-MobileApp-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lutang123&repo=Flutter-MobileApp-Projects" />
 </a>
 
-### Contact me:
+<!-- ### Contact me: -->
 <p align="center">
 <a href="https://twitter.com/Flutter_Lulu"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ketanchoyal" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/lutang123"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ketanchoal" height="30" width="30" /></a>
