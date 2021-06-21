@@ -1,14 +1,11 @@
-### Hi there 👋
-
-<a href="https://github.com/Solido/awesome-flutter">
-   <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
-</a>
+### Hi there 👋 🙂
 
 - 🔭 I’m currently working as Flutter Developer, helping startups to launch their apps. 🚀
 - 🌱 I’m currently learning to build Flutter apps with machine learning models and animations, and everything else related on creating great software.
 - 👯 I’m looking to collaborate on Flutter Open-Source project!
 - 💬 Ask me about Flutter and data science 😎
-- ⚡ Other things about me: I love traveling and outdoor activities 🛩 ⛴ 🏖 🏞 🏔, and I love food and I can eat very spicy food too🌶🌶🌶.
+- 🛩 ⛴ 🏖 🏞 🏔 I love traveling and outdoor activities
+- ⚡ Fun fact: I can beat you on eating spicy food too🌶🌶🌶😄.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutang123" alt="lutang123" /> </p>
 <br/>
 
