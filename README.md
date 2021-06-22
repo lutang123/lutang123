@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as Flutter Developer, helping startups to launch their apps. 🚀
 - 🌱 I’m currently learning to build Flutter apps with machine learning models and animations, and everything else related on creating great software applications.
-- 👯 I’m looking to collaborate on Flutter Open-Source project!
+- 👯 I’m looking to collaborate on Flutter project!
 - 💬 Ask me about Flutter and data science 😎
 - ⚡ Other things about me: I love traveling 🛩 ⛴ and outdoor activities 🏖 🏔 and I love spicy food 🌶🌶🌶😄
 - 📫 Reach me [@LinkedIn](https://linkedin.com/in/lutang123)
