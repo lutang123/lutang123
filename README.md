@@ -15,6 +15,9 @@
 <!-- ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lutang123&theme=dracula) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lutang123&theme=dracula)](https://git.io/streak-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lutang123&repo=github-readme-stats)](https://github.com/lutang123/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutang123&layout=compact&theme=dracula)]()
 
 ---
@@ -28,8 +31,8 @@
 
 <!-- ### Contact me: -->
 <p align="center">
-<a href="https://twitter.com/Flutter_Lulu"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ketanchoyal" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/lutang123"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ketanchoal" height="30" width="30" /></a>
-<a href="https://www.facebook.com/lu.tang.1422"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ketanchoyal" height="30" width="30" /></a>
-<a href="https://www.instagram.com/travelling_girl_lulu/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ketanchoyal" height="30" width="30" /></a>
+<a href="https://twitter.com/Flutter_Lulu"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lutang" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/lutang123"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lutang" height="30" width="30" /></a>
+<a href="https://www.facebook.com/lu.tang.1422"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lutang" height="30" width="30" /></a>
+<a href="https://www.instagram.com/travelling_girl_lulu/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lutang" height="30" width="30" /></a>
 </p>
