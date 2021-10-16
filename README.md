@@ -1,5 +1,5 @@
 <h2 > Hi there 👋, I am Lu Tang 🙂 </h2>
-<h3 >A Flutter mobile app developer</h3>
+<h3 >A Software developer (Mobile App and Web App)</h3>
 
 - 🔭 I’m currently working as Flutter Developer, helping startups to launch their apps. 🚀
 - 🌱 I’m currently learning to build Flutter apps with machine learning models and animations, and everything else related on creating great software applications.
@@ -7,6 +7,8 @@
 - 💬 Ask me about Flutter and data science 😎
 - ⚡ Other things about me: I love traveling 🛩 ⛴ and outdoor activities 🏖 🏔 and I love spicy food 🌶🌶🌶😄
 - 📫 Reach me [@LinkedIn](https://linkedin.com/in/lutang123)
+
+- The Stats and Streaks are not accurate, I did more than those data shows.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutang123" alt="lutang123" /> </p>
 
 ---
