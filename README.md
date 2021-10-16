@@ -12,6 +12,8 @@
 
 (The Stats and Streaks below are not very accurate, I did more than those data shows.😄)
 
+[![lu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lutang123)](https://github.com/lutang123/github-readme-stats)
+
 [![lu's github stats](https://github-readme-stats.vercel.app/api?username=lutang123&show_icons=true&count_private=true&theme=dracula)]()
 <!-- ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lutang123&theme=dracula) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lutang123&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&count_private=true&theme=dracula)](https://git.io/streak-stats)
