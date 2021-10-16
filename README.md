@@ -28,8 +28,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lutang123&repo=Flutter-MobileApp-Projects" />
 </a> -->
 
-Featured Project: 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lutang123&repo=Flutter-MobileApp-Projects&show_owner=true&theme=dracula)](https://github.com/lutang123/Flutter-MobileApp-Projects)
+<!-- Featured Project: 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lutang123&repo=Flutter-MobileApp-Projects&show_owner=true&theme=dracula)](https://github.com/lutang123/Flutter-MobileApp-Projects) -->
 
 
 <!-- ### Contact me: -->
