@@ -12,7 +12,7 @@
 
 (The Stats and Streaks below are not very accurate, I did more than those data shows.😄)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lutang123&repo=github-readme-stats)](https://github.com/lutang123/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lutang123&repo=Flutter-MobileApp-Projects)](https://github.com/lutang123/github-readme-stats)
 
 
 [![lu's github stats](https://github-readme-stats.vercel.app/api?username=lutang123&show_icons=true&count_private=true&theme=dracula)]()
