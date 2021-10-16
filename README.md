@@ -7,15 +7,14 @@
 - 💬 Ask me about Flutter and data science 😎
 - ⚡ Other things about me: I love traveling 🛩 ⛴ and outdoor activities 🏖 🏔 and I love spicy food 🌶🌶🌶😄
 - 📫 Reach me [@LinkedIn](https://linkedin.com/in/lutang123)
-
-- The Stats and Streaks are not accurate, I did more than those data shows.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutang123" alt="lutang123" /> </p>
-
 ---
 
-[![lu's github stats](https://github-readme-stats.vercel.app/api?username=lutang123&&show_icons=true&count_private=true&theme=dracula)]()
+(The Stats and Streaks below are not very accurate, I did more than those data shows.😄)
+
+[![lu's github stats](https://github-readme-stats.vercel.app/api?username=lutang123&show_icons=true&count_private=true&theme=dracula)]()
 <!-- ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lutang123&theme=dracula) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lutang123&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lutang123&show_icons=true&count_private=true&theme=dracula)](https://git.io/streak-stats)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lutang123)](https://github.com/lutang123) -->
 <!-- [![lu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lutang123)](https://github.com/lutang123) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutang123&layout=compact&theme=dracula)]()
