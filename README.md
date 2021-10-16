@@ -12,15 +12,12 @@
 
 (The Stats and Streaks below are not very accurate, I did more than those data shows.😄)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lutang123&repo=Flutter-MobileApp-Projects)](https://github.com/lutang123/github-readme-stats)
-
-
 [![lu's github stats](https://github-readme-stats.vercel.app/api?username=lutang123&show_icons=true&count_private=true&theme=dracula)]()
 <!-- ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lutang123&theme=dracula) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lutang123&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&count_private=true&theme=dracula)](https://git.io/streak-stats)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lutang123)](https://github.com/lutang123) -->
 <!-- [![lu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lutang123)](https://github.com/lutang123) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutang123&layout=compact&theme=dracula)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutang123&layout=compact&count_private=true&theme=dracula)]()
 
 ---
 
@@ -30,6 +27,10 @@
 <!-- <a href="https://github.com/lutang123/Flutter-MobileApp-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lutang123&repo=Flutter-MobileApp-Projects" />
 </a> -->
+
+Featured Project: 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lutang123&repo=Flutter-MobileApp-Projects&show_owner=true&theme=dracula)](https://github.com/lutang123/Flutter-MobileApp-Projects)
+
 
 <!-- ### Contact me: -->
 <p align="center">
