@@ -2,10 +2,10 @@
 <h3 >A Software developer (Mobile App and Web App)</h3>
 
 - 🔭 I’m currently working as Flutter Developer, helping startups to launch their apps. 🚀
-- 🌱 I’m currently learning to build Flutter apps with machine learning models and animations, and everything else related on creating great software applications.
+- 🌱 I’m a life-long learner.
 - 👯 I’m looking to collaborate on Flutter project!
 - 💬 Ask me about Flutter and data science 😎
-- ⚡ Other things about me: I love traveling 🛩 ⛴ and outdoor activities 🏖 🏔 and I love spicy food 🌶🌶🌶😄
+- ⚡ Other things about me: I love traveling 🛩 ⛴ and outdoor activities 🏖 🏔 and I love spicy food 🌶 😄 and I have a wonderful daughter ❤️❤️❤
 - 📫 Reach me [@LinkedIn](https://linkedin.com/in/lutang123)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutang123" alt="lutang123" /> </p>
 ---
