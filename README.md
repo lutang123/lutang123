@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working as Flutter Developer, helping startups to launch their apps. 🚀
 - 🌱 I’m a life-long learner.
-- 👯 I’m looking to collaborate on Flutter project!
-- 💬 Ask me about Flutter and data science 😎
+- 👯 I’m open to new challenge and opportunities!
 - ⚡ Other things about me: I love traveling 🛩 ⛴ and outdoor activities 🏖 🏔 and I love spicy food 🌶 😄 and I have a wonderful daughter ❤️❤️❤
+
 - 📫 Reach me [@LinkedIn](https://linkedin.com/in/lutang123)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutang123" alt="lutang123" /> </p>
 ---
