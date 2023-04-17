@@ -1,5 +1,5 @@
 <h2 > Hi there 👋, I am Lu Tang 🙂 </h2>
-<h3 >A Software developer (Mobile App and Web App)</h3>
+<h3 >A Software developer (Mobile App and Web App plus Data Science background)</h3>
 
 - 🔭 I’m currently working as Flutter Developer, helping startups to launch their apps. 🚀
 - 🌱 I’m a life-long learner.
