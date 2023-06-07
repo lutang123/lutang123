@@ -1,10 +1,10 @@
 <h2 > Hi there 👋, I am Lu Tang 🙂 </h2>
-<h3 >A Software developer (Mobile App and Web App plus Data Science background)</h3>
+<h3 >A Software developer (Mobile App and Web App developer plus Data Science and finance background)</h3>
 
 - 🔭 I’m currently working as Flutter Developer, helping startups to launch their apps. 🚀
 - 🌱 I’m a life-long learner.
-- 👯 I’m open to new challenge and opportunities!
-- ⚡ Other things about me: I love traveling 🛩 ⛴ and outdoor activities 🏖 🏔 and I love spicy food 🌶 😄 and I have a wonderful daughter ❤️❤️❤
+- 👯 I’m open to new opportunities and collaborate with others.
+- ⚡ Other things about me: I love traveling 🛩 ⛴ and outdoor activities 🏖 🏔 and I love spicy food 🌶 😄 and I have a wonderful daughter ❤️
 
 - 📫 Reach me [@LinkedIn](https://linkedin.com/in/lutang123)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutang123" alt="lutang123" /> </p>
