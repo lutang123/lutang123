@@ -1,4 +1,4 @@
-<h2 > Hi there 👋, I am Lu Tang (Sabrina) 🤗 </h2>
+<h2 > Hi there 👋, I am Lu Tang (Sabrina 👩🏻‍💻) 🤗 </h2>
 <h4 >A Software developer (Mobile and Web App developer plus Data Science and finance background)</h4>
 
 <h6 >🧚‍♀️ Flutter Developer | Building beautiful, meaningful apps | Lifelong learner | Sharing coding tips & live sessions | 🇨🇳 🇨🇦 </h6>
