@@ -32,5 +32,4 @@
 <a href="https://www.instagram.com/superhost_sabrina/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lutang" height="30" width="30" /></a>
 </p>
 
-https://www.youtube.com/channel/UCREeNdRLjKigA5XlQyt0-CA
 
