@@ -1,14 +1,18 @@
-<h2 > Hi there 👋, I am Lu Tang (Sabrina 👩🏻‍💻) 🤗 </h2>
-<h4 >A Software developer (Mobile and Web App developer plus Data Science and finance background)</h4>
+<h2 > Hi there 🤗, I am Lu Tang, also known as Sabrina, the Flutter Fairy 🧚‍♀️ 👩🏻‍💻 ✨ </h2>
+<h4 >A Software engineer and Mobile and Web App developer plus Data Science and finance background</h4> 
 
-<h6 >🧚‍♀️ Flutter Developer | Building beautiful, meaningful apps | Lifelong learner | Sharing coding tips & live sessions | 🇨🇳 🇨🇦 </h6>
+<h5 > 🧚‍♀️ Flutter App Developer | Building beautiful and meaningful Apps 📱 | Lifelong learner 📚 | Sharing stories, tips & live coding sessions on YouTube| 🇨🇳 🇨🇦 🇺🇸 </h5>
 
 - 🔭 I’m currently working as Flutter Developer, helping startups to launch their apps. 🚀
-- 🌱 I’m a life-long learner, I like taking chanllenges and exploring new tech and innovations.
+- 🌱 I’m a life-long learner, I like keep learning, taking chanllenges and exploring new tech and innovations.
 - 👯 I’m open to new opportunities and collaborate with others.
 - ⚡ Other things about me: I love traveling 🛩 hiking 🏔 , reading 📚, cooking 🥘, love spicy food 🌶 and I have a wonderful daughter.
 
 - 📫 Reach me [@LinkedIn](https://linkedin.com/in/lutang123)
+
+- 👀 Checkout my new YouTube chanel @Flutter_Fairy about Intermediate Level Flutter Education Content: [@YouTube]([https://linkedin.com/in/lutang123](https://www.youtube.com/channel/UCREeNdRLjKigA5XlQyt0-CA))
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutang123" alt="lutang123" /> </p>
 
 <!-- <a href="https://github.com/lutang123/github-readme-stats">
