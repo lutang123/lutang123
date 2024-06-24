@@ -1,7 +1,7 @@
 <h2 > Hi there 🤗, I am Lu Tang, also known as Sabrina, the Flutter Fairy 🧚‍♀️ 👩🏻‍💻 ✨ </h2>
 <h4 >A Software engineer and Mobile and Web App developer plus Data Science and finance background</h4> 
 
-<h5 > 🧚‍♀️ Flutter App Developer | Building beautiful and meaningful Apps 📱 | Lifelong learner 📚 | Sharing stories, tips & live coding sessions on YouTube|🇨🇳 🇨🇦 🇺🇸</h5>
+<h5 > 🧚‍♀️ Flutter App Developer | Building beautiful and meaningful Apps 📱 | Lifelong learner 📚 | Sharing stories, tips & live coding sessions 👩🏻‍💻 on YouTube </h5>
 
 - 🔭 I’m currently working as Flutter Developer, helping startups to launch their apps. 🚀
 - 🌱 I’m a life-long learner, I like keep learning, taking chanllenges and exploring new tech and innovations.
