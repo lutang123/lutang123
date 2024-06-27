@@ -10,7 +10,7 @@
 
 - 📫 Reach me [@LinkedIn](https://linkedin.com/in/lutang123)
 
-- 👀 Checkout my new YouTube chanel [@Flutter_Fairy](https://www.youtube.com/channel/UCREeNdRLjKigA5XlQyt0-CA) about Intermediate Level Flutter Education Content. 
+- 👀 Checkout my new YouTube chanel [@TheFlutterFairy](https://www.youtube.com/channel/UCREeNdRLjKigA5XlQyt0-CA) about Intermediate Level Flutter Education Content. 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutang123" alt="lutang123" /> </p>
