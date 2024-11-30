@@ -1,17 +1,30 @@
-<h2 > Hi there 🤗, I am Lu Tang (Sabrina), and host of the YouTube Channel @TheFlutterFairy 🧚‍♀️ 👩🏻‍💻 ✨ </h2>
-<p >A Software engineer and Mobile and Web App developer in Flutter, plus Data Science and finance background</p> 
+<h2 >Hi there 👋, I'm Lu Tang (Sabrina) – Flutter Developer, Lifelong Learner, and Host of @TheFlutterFairy 🧚‍♀️✨ </h2>
 
-<h6 > 🧚‍♀️ Flutter App Developer | Building beautiful and meaningful Apps 📱 | Lifelong learner 📚 | Sharing stories, tips & live coding sessions 👩🏻‍💻 on YouTube </h6>
+<p >I’m a passionate Software Engineer specializing in building beautiful and meaningful mobile and web apps with Flutter. My journey spans from crafting intuitive user experiences to leveraging a data science and finance background to create innovative solutions that drive real-world impact. </p> 
 
-- 🔭 I’m currently working as Flutter App Developer, helping startups to launch their apps. 🚀
-- 🌱 I’m a life-long learner, I like keep learning, taking chanllenges and exploring new tech and innovations.
-- 👯 I’m open to new opportunities and collaborate with others.
-- ⚡ Other things about me: I love traveling 🛩 hiking 🏔 , reading 📚, cooking 🥘, love spicy food 🌶 and I have a wonderful daughter.
+💻 What I do:
+- 🚀 Helping startups turn their app ideas into reality using Flutter. 
+- 🌱 Continuously learning cutting-edge tech, exploring AI integrations, and enhancing my skills as a developer.
+- 📚 Sharing my knowledge and love for Flutter on YouTube through live coding, tutorials, and tips for developers at all levels..
 
-- 📫 Reach me [@LinkedIn](https://linkedin.com/in/lutang123)
+🌟 What makes me unique:
 
-- 👀 Checkout my new YouTube chanel [@TheFlutterFairy](https://www.youtube.com/channel/UCREeNdRLjKigA5XlQyt0-CA) about Intermediate Level Flutter Education Content. 
+- A self-taught developer with an interdisciplinary background, merging finance, data science, and software development to solve complex problems.
+- A resilient immigrant mom, proving that with passion and hard work, anything is achievable.
+- Enthusiastic about education-related projects, especially those that help children learn and grow, because they are our future.
 
+🔍 Open to Opportunities:
+I'm actively seeking new challenges to contribute, learn, and grow. I thrive on collaboration and am eager to connect with like-minded professionals who believe in using technology to create meaningful change. Let’s build something great together!
+
+📌 Let’s connect!
+📫 Reach me [@LinkedIn](https://linkedin.com/in/lutang123)
+🎥 Watch my latest videos on YouTube [@TheFlutterFairy](https://www.youtube.com/channel/UCREeNdRLjKigA5XlQyt0-CA)
+🐦 Follow my journey on Instagram (https://www.instagram.com/like_lulu_like_lulia/)
+
+Pinned Projects
+📊 Machine Learning Model on Peer-to-Peer Lending: Created a model that predicts risk for investors while maximizing returns.
+📱 Flutter Mobile App Projects: A portfolio of my favorite Flutter apps showcasing elegant UI/UX design and robust functionality.
+🛠️ Web Development Projects: Building full-stack web apps using Node.js, Firebase, and Python.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutang123" alt="lutang123" /> </p>
 
@@ -32,7 +45,7 @@
 <a href="https://twitter.com/TheFlutterFairy"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lutang" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/lutang123"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lutang" height="30" width="30" /></a>
 <a href="https://www.facebook.com/lu.tang.1422"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lutang" height="30" width="30" /></a>
-<a href="https://www.instagram.com/superhost_sabrina/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lutang" height="30" width="30" /></a>
+<a href="https://www.instagram.com/like_lulu_like_lulia/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lutang" height="30" width="30" /></a>
 </p>
 
 
