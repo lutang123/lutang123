@@ -16,12 +16,14 @@
 🔍 Open to Opportunities:
 I'm actively seeking new challenges to contribute, learn, and grow. I thrive on collaboration and am eager to connect with like-minded professionals who believe in using technology to create meaningful change. Let’s build something great together!
 
-🎨 A little more about me, when I’m not coding, you can find me:
-- 🌄 Exploring the outdoors through hiking & traveling
-- 📚 Diving into books or experimenting with new recipes in the kitchen
-- 🌶️ Enjoying authentic Chinese Sichuan spicy food while dreaming of my next big project
+🤗 A little more about me:
+When I’m not coding, you can find me:
+- 🌄 Exploring the outdoors and wandering through unique neighborhoods on foot. When I have time for a longer holiday, I love traveling to new countries, dreaming of one day exploring every corner of the world.
+- 📚 Getting lost in books the old-fashioned way, finding inspiration in quiet corners of local cafes or libraries.
+- 🥘 Experimenting with new recipes in the kitchen or indulging in cuisines from different cultures at local eateries.
+- 🌶️ Savoring authentic Sichuan spicy food while brainstorming my next big project.
 
-🤗 Let’s connect!
+🤝 Let’s connect!
 - 📫 Reach me [@LinkedIn](https://linkedin.com/in/lutang123)
 - 🎥 Watch my latest videos on YouTube [@TheFlutterFairy](https://www.youtube.com/channel/UCREeNdRLjKigA5XlQyt0-CA)
 - 🐦 Follow my journey on [Instagram](https://www.instagram.com/like_lulu_like_lulia/)
