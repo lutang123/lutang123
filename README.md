@@ -21,12 +21,12 @@ I'm actively seeking new challenges to contribute, learn, and grow. I thrive on 
 - 📚 Diving into books or experimenting with new recipes in the kitchen
 - 🌶️ Enjoying authentic Chinese Sichuan spicy food while dreaming of my next big project
 
-📌 Let’s connect!
+🤗 Let’s connect!
 - 📫 Reach me [@LinkedIn](https://linkedin.com/in/lutang123)
 - 🎥 Watch my latest videos on YouTube [@TheFlutterFairy](https://www.youtube.com/channel/UCREeNdRLjKigA5XlQyt0-CA)
 - 🐦 Follow my journey on [Instagram](https://www.instagram.com/like_lulu_like_lulia/)
 
-Pinned Projects
+📌 Pinned Projects
 - 📊 [Data Science Project with Machine Learning Model on Peer-to-Peer Lending](https://github.com/lutang123/Data-Science-Projects): Created a model that predicts risk for investors while maximizing returns.
 - 📱 [Flutter Mobile App Projects](https://github.com/lutang123/Flutter-MobileApp-Projects): A portfolio of my favorite Flutter apps showcasing elegant UI/UX design and robust functionality.
 - 🛠️ [Web Development Projects](https://github.com/lutang123/Web-Development-Projects): Building full-stack web apps using Node.js, Firebase, and Python.
