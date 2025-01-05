@@ -1,32 +1,29 @@
-<h2 >Hi there 👋, I'm Lu Tang (Sabrina) – Flutter Developer, Lifelong Learner, and Host of @TheFlutterFairy 🧚‍♀️✨ </h2>
+<h2 >Hi there 👋, I'm Lu Tang – Software Engineer/Developer (Fullstack Flutter + Web + Node + Python + AI and Data Science) </h2>
 
-<p >I’m a passionate Software Engineer specializing in building beautiful and meaningful mobile and web apps with Flutter. My journey spans from crafting intuitive user experiences to leveraging a data science and finance background to create innovative solutions that drive real-world impact. </p> 
+<p >A passionate Software Engineer specializing in building beautiful and meaningful mobile and web apps with Flutter and Fullstack Web in Node + Python. My journey spans from crafting intuitive user experiences to leveraging a data science and finance background to create innovative solutions that drive real-world impact. </p> 
 
 💻 What I do:
-- 🚀 Helping startups turn their app ideas into reality using Flutter. 
+- 🚀 Helping startups turn their app ideas into reality + Full package on setting up business, finance and accounting system for small business, yep, I can do all!
 - 🌱 Continuously learning cutting-edge tech, exploring AI integrations, and enhancing my skills as a developer.
-- 📚 Sharing my knowledge and love for Flutter on YouTube through live coding, tutorials, and tips for developers at all levels..
+- 📚 Sharing my knowledge on YouTube and LinkedIn through live coding, tutorials, and tips for developers at all levels.
 
 🌟 What makes me unique:
-
-- A self-taught developer with an interdisciplinary background, merging finance, data science, and software development to solve complex problems.
-- A resilient immigrant mom, proving that with passion and hard work, anything is achievable.
-- Enthusiastic about education-related projects, especially those that help children learn and grow, because they are our future.
+- An experienced software developer with interdisciplinary background, merging finance, accounting, data science, and software development to solve complex problems.
+- Resilient and adaptive entrepreneur, who not just write code, but leverage technology to help business solve real problem. 
 
 🔍 Open to Opportunities:
 I'm actively seeking new challenges to contribute, learn, and grow. I thrive on collaboration and am eager to connect with like-minded professionals who believe in using technology to create meaningful change. Let’s build something great together!
 
 🤗 A little more about me:
-When I’m not coding, you can find me:
-- 🌄 Exploring the outdoors and wandering through unique neighborhoods on foot. When I have time for a longer holiday, I love traveling to new countries, dreaming of one day exploring every corner of the world.
+When I’m not working, you can find me:
+- 🌄 Exploring the outdoors and wandering through neighborhoods on foot. When I have time for a longer holiday, I love traveling to new countries, dreaming of one day exploring every corner of the world.
 - 📚 Getting lost in books the old-fashioned way, finding inspiration in quiet corners of local cafes or libraries.
-- 🥘 Experimenting with new recipes in the kitchen or indulging in cuisines from different cultures at local eateries.
-- 🌶️ Savoring authentic Sichuan spicy food while brainstorming my next big project.
+- 🥘 Experimenting with new recipes in the kitchen or indulging in cuisines from different cultures at local eateries, savoring authentic Sichuan spicy food while brainstorming my next big project.
 
 🤝 Let’s connect!
 - 📫 Reach me [@LinkedIn](https://linkedin.com/in/lutang123)
-- 🎥 Watch my latest videos on YouTube [@TheFlutterFairy](https://www.youtube.com/channel/UCREeNdRLjKigA5XlQyt0-CA)
-- 🐦 Follow my journey on [Instagram](https://www.instagram.com/like_lulu_like_lulia/)
+- 🎥 Check out my raw, unedited coding journey on YouTube: [@TheFlutterFairy](https://www.youtube.com/channel/UCREeNdRLjKigA5XlQyt0-CA)
+- 🐦 Follow me on Instagram for spontaneous and candid posts: [Instagram](https://www.instagram.com/like_lulu_like_lulia/)
 
 📌 Pinned Projects
 - 📊 [Data Science Project with Machine Learning Model on Peer-to-Peer Lending](https://github.com/lutang123/Data-Science-Projects): Created a model that predicts risk for investors while maximizing returns.
