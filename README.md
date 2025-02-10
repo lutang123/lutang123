@@ -1,4 +1,4 @@
-<h2 >Hi there 👋, I'm Lu Tang – Software Engineer/Developer (Fullstack Flutter + Web + Node + Python + AI and Data Science) </h2>
+<h2 >Hi there 👋, I'm Lu Tang – Computer Systems Analyst and Software Engineer/Developer (Fullstack Flutter + Web + Python + AI and Data Science) </h2>
 
 <p >A passionate Software Engineer specializing in building beautiful and meaningful mobile and web apps with Flutter and Fullstack Web in Node + Python. My journey spans from crafting intuitive user experiences to leveraging a data science and finance background to create innovative solutions that drive real-world impact. </p> 
 
