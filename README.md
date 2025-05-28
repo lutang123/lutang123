@@ -9,7 +9,7 @@
 - 🛠️ I help startups turn napkin-sketch ideas into real, working apps.
 - 💼 I also happen to know my way around business setup, finance, and accounting (yes, I make spreadsheets *and* apps).
 - 🔬 Constantly exploring new tech—especially AI, because who doesn’t like a bit of future in their stack?
-- 🎥 Occasionally posting raw, unfiltered dev life and Flutter tips on [YouTube](https://www.youtube.com/channel/UCREeNdRLjKigA5XlQyt0-CA).
+- 🎥 Occasionally posting raw, unfiltered dev life and Flutter tips on social media.
 
 ---
 
