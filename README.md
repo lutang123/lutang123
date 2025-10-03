@@ -1,62 +1,76 @@
-<h2 align="center">👋 Hey there, I’m Lu Tang – Software Engineer & App Alchemist</h2>
-
-<p align="center">I build beautiful, purposeful apps with Flutter, Firebase, Python, and a little finance magic.</p>
-
----
-
-### 💻 What I Do
-
-- 🛠️ I help startups turn napkin-sketch ideas into real, working apps.
-- 💼 I also happen to know my way around business setup, finance, and accounting (yes, I make spreadsheets *and* apps).
-- 🔬 Constantly exploring new tech—especially AI, because who doesn’t like a bit of future in their stack?
-- 🎥 Occasionally posting raw, unfiltered dev life and Flutter tips on social media.
-
----
-
-### 🌟 Why Work With Me?
-
-- 🧠 I'm a cross-disciplinary dev—mixing software, finance, data science, and a bias toward building useful things.
-- 🔄 I adapt fast and think like a founder. I write code that solves problems, not just fills sprints.
-- 🧩 I love tackling complex systems and simplifying them with clean design and clear thinking.
-
----
-
-### 🔍 Open to Collaborations
-
-Let’s build something meaningful—whether it’s an AI-powered app, a community-driven platform, or just a weekend side project with coffee-fueled commits. Open to freelance, full-time, or fun-time work.
-
----
-
-### 🤹 A Bit About Me
-
-- 🌍 I wander through neighborhoods, trails, and countries—on foot, always curious.
-- 📖 I enjoy reading offline (yes, that still exists!) in cozy corners of libraries and cafes.
-- 🍜 I cook like I code—lots of flavor, a bit of improvisation, and usually spicy enough to keep it interesting.
-
----
-
-### 📌 Featured Projects
-
-- 📊 **[Data Science for Lending](https://github.com/lutang123/Data-Science-Projects)** – ML models predicting loan risk and return.
-- 📱 **[Flutter App Portfolio](https://github.com/lutang123/Flutter-MobileApp-Projects)** – Showcasing custom UI/UX and functional, scalable mobile apps.
-- 🛠️ **[Fullstack Web Projects](https://github.com/lutang123/Web-Development-Projects)** – Node.js, Firebase, Python apps that do more than just look pretty.
-
----
-
-### 🤝 Let’s Connect!
-
-- 📫 [LinkedIn](https://linkedin.com/in/lutang123) – for work, networking, and humble brags.
-- 🎥 [YouTube](https://www.youtube.com/channel/UCREeNdRLjKigA5XlQyt0-CA) – my raw, live Flutter dev journey.
-- 📸 [Instagram](https://www.instagram.com/like_lulu_like_lulia/) – for a glimpse of life beyond the keyboard.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lutang123" alt="lutang123" /> </p>
-
----
+<h2 align="center">👋 Hey, I'm Lu — I build products people actually love to use</h2>
 
 <p align="center">
-<a href="https://www.youtube.com/channel/UCREeNdRLjKigA5XlQyt0-CA"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="30" /></a>
-<a href="https://twitter.com/TheFlutterFairy"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" /></a>
-<a href="https://linkedin.com/in/lutang123"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" /></a>
-<a href="https://www.facebook.com/lu.tang.1422"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" /></a>
-<a href="https://www.instagram.com/like_lulu_like_lulia/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" /></a>
+Shipping cross-platform apps (Flutter, React/Web etc) with a strong product mindset and a soft spot for AI.
+I love turning real problems into useful, beautiful tools. 
+I care about fast feedback loops, real user value, and shipping.
+</p>
+
+---
+
+### 🧭 Focus right now
+- **building products for startups & smbs** — fast MVPs → iterated v1s with clear metrics
+- **cross-platform UX** — flutter for mobile, react/next.js for web; pragmatic stacks, clean APIs
+- **AI that earns trust** — RAG, citations, eval harnesses, guardrails
+
+---
+
+### 🧩 current role (california ISO)
+I’m currently building internal software and data tools in the **energy / grid** space — think operator-friendly dashboards, data validation, and reporting workflows that support **grid reliability and clean-energy integration**. It’s a great playground for real-world constraints, scale, and safety.
+
+> tl;dr: i like hard problems with real users. and yes, I’m still open to building cool stuff on the side.
+
+---
+
+### 🤝 collaborating / availability
+- open to **freelance, collab, or small equity projects**
+- happy to advise on **MVP scoping, product strategy, and tech choices**
+- especially interested in: **AI assistants**, **ops tooling**, **health/med-device data**, **climate/energy** software
+
+---
+
+### 🧰 Tech I reach for
+Flutter · React/Next.js · TypeScript · Python/FastAPI · Firebase/Supabase · Postgres  
+LLMs (Gemini/OpenAI) · RAG · Vector DBs (FAISS/Pinecone) · Playwright/Scrapy · Docker
+
+---
+
+### 🚀 Selected work
+- **Med-Device AI Q&A (RAG MVP)** – Gemini-powered assistant over FDA 510(k)/PMA + internal docs.  
+  *Hybrid search, citations, safety rails. Cut research from hours → minutes.*
+- **CAISO-style Ops Reporting** – modernizing legacy dashboards into a **React** front end with clean APIs.  
+  *Data validation, export pipelines, operator-friendly UX.*
+- **Lending Analytics** – small suite of DS notebooks and apps for risk/return modeling.  
+  *Actionable visuals, human-readable explanations, reproducible code.*
+
+> I value: clear problem statements, short cycles, and answers with receipts (links, citations, logs).
+
+---
+
+### 📌 Featured repos
+- 📊 **Data Science for Lending** → [lutang123/Data-Science-Projects](https://github.com/lutang123/Data-Science-Projects)  
+- 📱 **Flutter App Portfolio** → [lutang123/Flutter-MobileApp-Projects](https://github.com/lutang123/Flutter-MobileApp-Projects)  
+- 🛠️ **Full-stack Web Projects** → [lutang123/Web-Development-Projects](https://github.com/lutang123/Web-Development-Projects)
+
+> P.S. I’m packaging a slim **RAG starter** (ingest → index → retrieve → answer with citations). Ping me if you want early access.
+
+---
+
+### 🤝 Collaborations
+Open to **freelance / collab / full-time** on: AI assistants, internal tools, data products, and “weekend-to-week-one” MVPs.
+
+---
+
+### 🐾 A bit about me
+I’m endlessly curious, walkable-city obsessed, and I cook like I code: bold flavors, small batches, continuous improvement.
+
+---
+
+### 🔗 Find me
+[LinkedIn](https://linkedin.com/in/lutang123) · 
+[YouTube](https://www.youtube.com/channel/UCREeNdRLjKigA5XlQyt0-CA) · 
+[Instagram](https://www.instagram.com/like_lulu_like_lulia/)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=lutang123" alt="profile views" />
 </p>
